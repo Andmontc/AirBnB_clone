@@ -7,9 +7,9 @@
 <p align="center">An AirBnB clone.</p>
 
 
-The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming.
-#### Goals.
-The main goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). To make this possible, we will perform the following steps:
+The console is the first segment of the AirBnB clone project
+
+The use of AirBnB clone project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). To make this possible, we will perform the following steps:
 * Create a command interpreter to manipulate data without a visual interface, like in a Shell (perfect for development and debugging) (built in this segment).
 *  A website (the front-end) that shows the final product to everybody: static and dynamic
 * A database or files that store data (data = objects)
