@@ -43,15 +43,15 @@ button:hover {
 
 .popover {
     position: relative;
-	background-color: #FAFAFA;
+    background-color: #FAFAFA;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
-	padding-top: 20px;
+    padding-top: 20px;
     padding-left: 20px;
     padding-bottom: 10px;
     width: 91.5%;
-	display: none;
-	z-index: 1;
+    display: none;
+    z-index: 1;
 }
 
 .locations:hover .popover {
