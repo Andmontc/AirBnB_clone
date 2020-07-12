@@ -55,7 +55,7 @@ button:hover {
 }
 
 .locations:hover .popover {
-	display: block;
+    display: block;
 }
 
 .amenities .popover{
@@ -65,30 +65,30 @@ button:hover {
 }
 
 .amenities:hover .popover{
-	display: block;
+    display: block;
 }
 
 li {
-	color: black;
-	list-style: none;
+    color: black;
+    list-style: none;
 }
 
 h3 {
-	font-weight: 600;
-	font-size: 17px;
-	color: black;
-	padding-left: 40px;
+    font-weight: 600;
+    font-size: 17px;
+    color: black;
+    padding-left: 40px;
 }
 
 h4 {
-	font-weight: 400;
-	font-size: 14px;
-	color: black;
-	padding-left: 40px;
-	margin-top: -10px;
+    font-weight: 400;
+    font-size: 14px;
+    color: black;
+    padding-left: 40px;
+    margin-top: -10px;
 }
 
 h2 {
-	color: black;
-	font-size: 16px;
+    color: black;
+    font-size: 16px;
 }
